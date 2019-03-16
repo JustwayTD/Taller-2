@@ -1,0 +1,8 @@
+body{
+  outline: 12px dotted #000000;
+  -webkit-box-shadow: 20px 20px 1px 50px #9CBDFF;
+box-shadow: 20px 20px 1px 50px #9CBDFF;
+}
+a{
+  font-family: "Times New Roman", Times, serif;
+}
