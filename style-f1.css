@@ -1,0 +1,21 @@
+h1{
+  font: normal 30px/1 "Times New Roman", Times, serif;
+color: black;
+text-align: center;
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+}
+a{
+  font: normal 18px/1 "Times New Roman", Times, serif;
+color: black;
+text-align: center;
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+}
+body{
+  font: normal 20px/1 "Times New Roman", Times, serif;
+color: black;
+text-align: center;
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+}
