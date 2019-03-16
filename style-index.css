@@ -10,3 +10,11 @@ text-align: justify;
 -o-text-overflow: clip;
 text-overflow: clip;
 }
+h1{
+  font: normal 40px/normal "Times New Roman", Times, serif;
+  color: rgba(0,0,0,1);
+  text-align: center;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  word-spacing: 2px;
+}
