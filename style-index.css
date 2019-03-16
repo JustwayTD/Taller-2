@@ -1,8 +1,14 @@
 body{
-  outline: 12px dotted #000000;
-  -webkit-box-shadow: 20px 20px 1px 50px #9CBDFF;
-box-shadow: 20px 20px 1px 50px #9CBDFF;
+  font: normal 13px/normal "Times New Roman", Times, serif;
+  color: rgba(0,142,198,1);
+  text-align: justify;
+  -o-text-overflow: clip;
+  text-overflow: clip;
 }
 a{
-  font-family: "Times New Roman", Times, serif;
+  font: normal 13px/normal "Times New Roman", Times, serif;
+color: rgba(0,142,198,1);
+text-align: justify;
+-o-text-overflow: clip;
+text-overflow: clip;
 }
